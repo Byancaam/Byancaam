@@ -1,7 +1,7 @@
-### Hi there 👋
+### Olá! Eu sou a Bya 👋
 
-<!--
-**Byancaam/Byancaam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+💻 Front-End Developer - React 🌏 Brazilian 🏡 São Paulo 👉 Brasil
 
 Here are some ideas to get you started:
 
